@@ -5,6 +5,9 @@
 # Title
 Measurements of BBOA over West Africa
 
+## abstract
+main results and summary for the citation
+
 # Authors
 Someone, Somebody
 
@@ -22,3 +25,5 @@ Something anything
 # Appendix
 
 # figures
+
+# acknowledgements
