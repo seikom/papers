@@ -10,3 +10,7 @@ Something anything
 # Method
 
 # Results
+
+# Discussion
+
+# Reference
